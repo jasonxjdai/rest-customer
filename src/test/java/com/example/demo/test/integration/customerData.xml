@@ -1,0 +1,5 @@
+<dataset>
+    <customer id="1" name="tom" faxNumber="123" telephoneNumber="456" version="0"/>
+    <customer id="2" name="bruce" faxNumber="789" telephoneNumber="101112" version="0"/>
+    <customer id="3" name="alex" faxNumber="131415" telephoneNumber="161718" version="0"/>
+</dataset>

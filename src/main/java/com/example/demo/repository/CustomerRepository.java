@@ -1,0 +1,1 @@
+package com.example.demo.repository;import org.springframework.data.jpa.repository.JpaRepository;import com.example.demo.domain.Customer;/** * Specifies methods used to obtain and modify customer related information * which is stored in the database. */public interface CustomerRepository extends JpaRepository<Customer, Long> {}
